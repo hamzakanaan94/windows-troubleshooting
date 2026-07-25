@@ -1,1 +1,32 @@
+# Windows Installation
 
+## Objective
+
+Install a clean and stable version of Microsoft Windows.
+
+## Requirements
+
+- USB Flash Drive (8 GB or larger)
+- Windows ISO
+- Rufus or Ventoy
+- Internet connection
+- Device drivers
+
+## Installation Steps
+
+1. Download the official Windows ISO.
+2. Create a bootable USB.
+3. Configure BIOS/UEFI.
+4. Boot from the USB drive.
+5. Install Windows.
+6. Install drivers.
+7. Run Windows Update.
+8. Test system stability.
+
+## Final Checklist
+
+- Windows activated
+- Drivers installed
+- Windows Update completed
+- No unknown devices in Device Manager
+- Essential software installed
