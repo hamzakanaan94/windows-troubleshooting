@@ -125,25 +125,7 @@ Explain the benefits clearly.
 
 ---
 
-# 7. Cosmetic improvements
-
-If the device has external damage but functions correctly, recommend optional improvements such as:
-
-- Vinyl wrap
-- Protective skin
-- Laptop cover
-
-Choose the design based on customer preference:
-
-- Gaming
-- Professional
-- Engineering
-- Business
-- General use
-
----
-
-# 8. Documentation
+# 7. Documentation
 
 Before opening the device:
 
