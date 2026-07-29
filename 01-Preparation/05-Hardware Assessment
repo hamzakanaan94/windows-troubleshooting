@@ -1,1 +1,286 @@
+# Hardware Assessment
 
+## Overview
+
+Before selecting the operating system, I perform a complete hardware assessment to evaluate the device's overall condition, identify performance limitations, and determine whether hardware upgrades are recommended.
+
+Every computer should be evaluated as a complete system rather than focusing on individual components.
+
+---
+
+# Objectives
+
+- Evaluate overall hardware performance.
+- Identify hardware limitations.
+- Recommend suitable hardware upgrades.
+- Select the most appropriate Windows version.
+- Improve long-term stability and user experience.
+
+---
+
+# Processor (CPU)
+
+Evaluate:
+
+- Manufacturer (Intel / AMD)
+- Processor family
+- Generation
+- Model
+- Base and Turbo clock speed
+- Number of cores and threads
+- Processor class (U, H, HQ, HX, etc.)
+
+The processor is one of the primary factors when selecting an operating system.
+
+Older processors generally provide a better experience with Windows 10, while modern processors are well suited for Windows 11.
+
+Always evaluate the processor generation together with its architecture and intended workload.
+
+---
+
+# Memory (RAM)
+
+Check:
+
+- Installed capacity
+- Memory type (DDR3 / DDR4 / DDR5)
+- Memory speed
+- Available upgrade slots
+- Maximum supported capacity
+
+Increasing RAM may improve multitasking performance and reduce reliance on the Windows page file.
+
+Recommend RAM upgrades only when they provide a noticeable improvement in real-world performance.
+
+---
+
+# Graphics (GPU)
+
+Determine whether the system uses:
+
+- Integrated Graphics
+- Dedicated Graphics
+
+Evaluate the GPU according to the customer's workload.
+
+Integrated graphics are generally suitable for:
+
+- Office work
+- Internet browsing
+- Education
+- General home use
+
+Dedicated graphics are recommended for:
+
+- Gaming
+- Engineering
+- 3D Design
+- Video Editing
+
+While Windows 11 does not require a dedicated graphics card, a stronger GPU can improve the overall visual experience on modern systems.
+
+---
+
+# Storage
+
+Evaluate:
+
+- HDD
+- SATA SSD
+- NVMe SSD
+
+Check:
+
+- Storage type
+- Capacity
+- Available free space
+- Future expansion options
+
+Whenever possible, recommend upgrading from HDD to SSD.
+
+Larger storage capacity provides greater flexibility for future software installations and user data.
+
+Cloud storage can also be recommended as an additional backup solution.
+
+---
+
+# Cooling System
+
+Inspect:
+
+- Fan condition
+- Dust accumulation
+- Airflow
+- Thermal paste condition
+- Operating temperatures
+
+A stable cooling system improves performance, reliability, and hardware lifespan.
+
+---
+
+# TPM Assessment
+
+Verify whether the system supports Trusted Platform Module (TPM).
+
+Check:
+
+- TPM version
+- TPM status (Enabled / Disabled)
+- BIOS support
+
+Windows 11 officially requires TPM 2.0.
+
+Do not assume TPM support based only on the manufacturing year.
+
+Always verify the TPM version before selecting Windows 11.
+
+If TPM 2.0 is unavailable but the hardware is otherwise capable, this information will be used later when preparing the installation media.
+
+---
+
+# Driver Availability
+
+Before selecting Windows, verify that compatible drivers are available from the manufacturer's official website.
+
+Older devices may require compatibility mode or legacy drivers.
+
+---
+
+# Upgrade Potential
+
+Evaluate whether the device supports future upgrades.
+
+Examples:
+
+- SSD upgrade
+- RAM upgrade
+- Additional storage
+- CPU upgrade (Desktop systems)
+
+Recommend upgrades only when they provide meaningful performance improvements.
+
+Avoid unnecessary expenses for the customer.
+
+---
+
+# Customer Usage
+
+Understand how the customer intends to use the computer.
+
+Examples:
+
+- Office Work
+- Education
+- Programming
+- Engineering
+- Graphic Design
+- Video Editing
+- Gaming
+- General Home Use
+
+The intended workload has a direct impact on hardware recommendations and Windows selection.
+
+---
+
+# Compatibility Assessment
+
+After evaluating the hardware, summarize the device's overall condition.
+
+| Component | Status | Notes |
+|-----------|--------|-------|
+| CPU | Good | Suitable for Windows 10 |
+| RAM | Good | Enough for everyday use |
+| GPU | Acceptable | Integrated graphics |
+| Storage | Excellent | SSD installed |
+| Cooling | Good | No overheating detected |
+| TPM | Supported / Not Supported | Verify version before Windows 11 |
+
+---
+
+# Upgrade Priority
+
+When recommending upgrades, I generally follow this priority:
+
+1. Replace HDD with SSD
+2. Clean the cooling system
+3. Replace thermal paste
+4. Upgrade RAM (when beneficial)
+5. Increase storage capacity
+
+The goal is to achieve the greatest improvement with the lowest reasonable cost.
+
+---
+
+# Cost vs Performance
+
+I recommend hardware upgrades only when they provide a noticeable improvement in daily use.
+
+I avoid recommending unnecessary upgrades that increase costs without offering meaningful benefits.
+
+---
+
+# Reliability
+
+My priority is system stability rather than achieving the highest benchmark scores.
+
+A stable, responsive computer is more valuable than a faster system that suffers from overheating or instability.
+
+---
+
+# Technician Experience
+
+Based on my practical experience:
+
+- Windows 10 Pro remains an excellent choice for many older systems.
+- I prefer clean installations instead of in-place upgrades whenever possible.
+- SSD upgrades usually provide the largest performance improvement.
+- Every device should be evaluated individually.
+- Hardware specifications should always be considered together, not separately.
+
+---
+
+# Real-World Example
+
+**Device**
+
+- Dell Latitude
+- Intel Core i3-4005U
+- 12 GB DDR3 RAM
+- 240 GB SSD
+- Intel Integrated Graphics
+
+**Recommendation**
+
+Windows 10 Pro (22H2)
+
+**Reason**
+
+Provides a smoother and more stable experience than Windows 11 while maintaining excellent compatibility with the hardware.
+
+---
+
+# Final Assessment
+
+Before proceeding with Windows installation, determine:
+
+- Is the hardware suitable?
+- Are upgrades recommended?
+- Which Windows version is the best choice?
+- Are there any hardware limitations that should be explained to the customer?
+
+Document all recommendations before beginning the installation.
+
+---
+
+# Checklist
+
+- CPU evaluated
+- RAM evaluated
+- GPU evaluated
+- Storage evaluated
+- Cooling system inspected
+- TPM verified
+- Driver availability verified
+- Upgrade potential assessed
+- Customer requirements identified
+- Final recommendation documented
