@@ -1,45 +1,75 @@
-# Preparation
+# pre-installation Preparation
 
 ## Overview
 
-Preparation is the most important stage before installing or reinstalling Windows. A proper preparation process helps prevent data loss, avoids compatibility issues, and ensures a smooth installation.
+Preparation is the foundation of every successful Windows installation.
 
-This section documents the standard workflow I follow before installing Windows on desktop computers and laptops.
+Before modifying a customer's device, I follow a structured preparation process to understand the customer's needs, evaluate the hardware, protect personal data, and ensure the selected operating system is appropriate for the device.
+
+A well-prepared installation reduces the risk of unexpected problems and provides a smoother experience for both the technician and the customer.
+
+This stage is not simply about installing Windows—it is about making informed decisions before any changes are made to the system.
 
 ---
 
-## Objectives
+# Objectives
 
 - Understand the customer's requirements.
-- Inspect the device for physical damage.
-- Check the storage drive health.
-- Identify BIOS or UEFI firmware.
-- Select the appropriate Windows version.
-- Back up important user data before formatting.
+- Inspect the physical condition of the device.
+- Evaluate hardware capabilities.
+- Verify storage health.
+- Check BIOS/UEFI configuration.
+- Select the most appropriate Windows version.
+- Protect customer data before formatting.
 
 ---
 
-## Workflow
+# Workflow
 
-1. Customer Interview
-2. Device Inspection
-3. Disk Health Check
-4. BIOS or UEFI Check
-5. Choose Windows Version
-6. Backup User Data
+```
+Customer Interview
+        ↓
+Device Inspection
+        ↓
+Disk Health Check
+        ↓
+BIOS / UEFI Check
+        ↓
+Hardware Assessment
+        ↓
+Choose Windows Version
+        ↓
+Backup User Data
+        ↓
+Ready for Windows Installation
+```
 
 ---
 
-## Best Practices
+# Folder Structure
 
-- Never start formatting before confirming that important files are backed up.
-- Verify hardware condition before assuming a software issue.
-- Always install the latest stable Windows version supported by the device.
-- Prefer official Microsoft installation media whenever possible.
-- Use manufacturer drivers instead of third-party driver packs.
+| File | Purpose |
+|------|---------|
+| Customer Interview | Understand customer requirements and expectations. |
+| Device Inspection | Inspect the physical condition of the device. |
+| Disk Health Check | Verify drive health before any operation. |
+| BIOS or UEFI Check | Identify firmware mode and installation compatibility. |
+| Hardware Assessment | Evaluate hardware capabilities and possible upgrades. |
+| Choose Windows Version | Select the most appropriate Windows edition. |
+| Backup User Data | Protect customer files before formatting. |
 
 ---
 
-## Next Step
+# Guiding Principles
 
-Proceed to **Customer Interview** to collect all required information before working on the device.
+Every decision made during preparation is intended to:
+
+- Improve reliability.
+- Reduce installation risks.
+- Protect customer data.
+- Deliver the best possible user experience.
+- Build trust through clear communication and careful planning.
+
+Skipping preparation often leads to avoidable problems later in the installation process.
+
+Careful preparation is the first step toward a successful service.
