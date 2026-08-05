@@ -8,7 +8,7 @@ Every installation should result in a clean, optimized, and professional system 
 
 ---
 
-# Installation Language
+## Installation Language
 
 Windows installation is always performed using the English version of Windows.
 
@@ -18,7 +18,7 @@ If the customer prefers another language, the display language can be installed 
 
 ---
 
-# Windows Edition Selection
+## Windows Edition Selection
 
 Windows Pro is the preferred edition for all supported devices.
 
@@ -28,21 +28,7 @@ Home Edition is only installed when specifically requested by the customer.
 
 ---
 
-# Product Activation
-
-If the computer contains a valid OEM license, Windows will activate automatically.
-
-Otherwise, installation continues by selecting:
-
-> **I don't have a product key**
-
-Product activation is discussed with the customer after installation has been completed.
-
-Whenever possible, official Microsoft licensing is recommended.
-
----
-
-# Installation Type
+## Installation Type
 
 Always select:
 
@@ -60,7 +46,7 @@ A clean installation provides:
 
 ---
 
-# Target Partition
+## Target Partition
 
 The Windows partition is selected according to the storage layout agreed upon during the **Preparation** phase.
 
@@ -68,7 +54,7 @@ Partition modifications should not be made during installation unless a technica
 
 ---
 
-# Installation Monitoring
+## Installation Monitoring
 
 The installation process should always be monitored.
 
@@ -83,7 +69,7 @@ Continuous monitoring allows immediate response if any issue occurs and reduces 
 
 ---
 
-# First Restart
+## First Restart
 
 After the first restart, Windows may display:
 
@@ -91,29 +77,35 @@ After the first restart, Windows may display:
 
 Do **not** press any key.
 
-The USB installation media remains connected until Windows reaches the desktop successfully.
+Leave the USB installation media connected until Windows successfully reaches the desktop.
 
 Removing the USB drive too early is unnecessary and may interrupt recovery if Windows temporarily requires installation files.
 
 ---
 
-# Initial Setup (OOBE)
+## OOBE (Initial Windows Setup)
 
-Internet connectivity is preferred during the initial setup.
+Complete the Out-of-Box Experience (OOBE) according to the customer's requirements.
 
-The account type depends on the customer's requirements.
+### Internet Connection
 
-### Microsoft Account
+Connecting to the internet during setup is recommended whenever possible.
+
+### Account Type
+
+Choose the account type based on the customer's needs.
+
+#### Microsoft Account
 
 Recommended for personal devices because it provides:
 
 - Password synchronization.
-- Microsoft services integration.
-- OneDrive synchronization.
+- OneDrive integration.
+- Microsoft Store access.
+- Settings synchronization.
 - Easier account recovery.
-- Cross-device settings synchronization.
 
-### Local Account
+#### Local Account
 
 Recommended for customers who:
 
@@ -124,9 +116,9 @@ Recommended for customers who:
 
 ---
 
-# First Desktop Boot
+## Post-Installation Initialization
 
-After Windows reaches the desktop, do not begin configuration immediately.
+Once Windows reaches the desktop, do not begin configuring the system immediately.
 
 Allow Windows approximately **1–2 minutes** to complete its background initialization.
 
@@ -142,9 +134,23 @@ Beginning configuration too early may interfere with these processes and produce
 
 ---
 
-# Initial System Validation
+## Windows Activation
 
-Before continuing, verify:
+If the device contains a valid OEM license, Windows will usually activate automatically once connected to the internet.
+
+If no product key is available during installation, select:
+
+> **I don't have a product key**
+
+Activation can be completed after installation according to the customer's preference.
+
+Whenever possible, official Microsoft licensing is recommended.
+
+---
+
+## Initial System Validation
+
+Before proceeding, verify:
 
 - System responsiveness.
 - Correct date and time.
@@ -159,15 +165,17 @@ Correct system time is essential for:
 - Microsoft Account synchronization.
 - Software activation.
 
+Create a **System Restore Point** before installing Windows Updates or making major system changes.
+
 ---
 
-# Computer Name
+## Computer Name
 
 Computer naming depends on the deployment environment.
 
 ### Business Devices
 
-Use the customer's naming convention or the organization's IT policy.
+Use the customer's naming convention or follow the organization's IT policy.
 
 ### Personal Devices
 
@@ -178,30 +186,31 @@ Either:
 
 ---
 
-# Next Stage
+## Next Stage
 
 Once Windows installation has been completed successfully, continue with:
 
-1. Create a System Restore Point.
-2. Install stable Windows Updates.
-3. Install manufacturer drivers.
-4. Verify Device Manager.
-5. Install core applications.
-6. Install customer-requested software.
-7. Perform final system optimization.
+1. Install stable Windows Updates.
+2. Install manufacturer drivers.
+3. Verify Device Manager.
+4. Install core applications.
+5. Install customer-requested software.
+6. Perform final system optimization.
 
 ---
 
-# Summary Checklist
+## Summary Checklist
 
 - ✅ English installation media used.
 - ✅ Windows Pro selected.
-- ✅ Correct installation type (Custom).
+- ✅ Custom installation selected.
 - ✅ Correct target partition selected.
 - ✅ Installation monitored successfully.
-- ✅ USB left connected until desktop.
-- ✅ Account configured according to customer requirements.
-- ✅ Windows allowed to complete background initialization.
-- ✅ Date, time, and time zone verified.
+- ✅ USB remained connected until the desktop loaded.
+- ✅ OOBE completed according to customer requirements.
+- ✅ Windows initialization completed.
+- ✅ Activation status verified.
+- ✅ Date, time, and time zone confirmed.
+- ✅ Restore Point created.
 - ✅ Computer name confirmed.
 - ✅ Ready for Windows Update.
