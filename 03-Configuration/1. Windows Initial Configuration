@@ -1,1 +1,122 @@
+# Windows Initial Configuration
 
+## Overview
+
+After completing a fresh Windows installation, the system is configured according to the device hardware, customer requirements, and intended use.
+
+The goal of this stage is to establish a stable initial Windows environment before installing additional drivers, applications, and performing final testing.
+
+---
+
+## 1. Initial Windows Setup
+
+Complete the initial Windows setup process.
+
+Typical configuration includes:
+
+- Region
+- Language
+- Keyboard layout
+- Date and time
+- Time zone
+- User account
+- Basic Windows preferences
+
+The configuration is adjusted according to the customer's requirements and the intended use of the device.
+
+---
+
+## 2. Windows Update
+
+Windows Update is checked after the initial setup.
+
+The process includes:
+
+1. Open Windows Update.
+2. Check for available updates.
+3. Install applicable updates.
+4. Restart the system when required.
+5. Check for updates again after restarting.
+
+Additional update cycles may be required because some updates become available only after previous updates have been installed.
+
+---
+
+## 3. Basic System Verification
+
+After the initial setup and updates, perform a basic system check.
+
+Verify that:
+
+- Windows starts normally.
+- The desktop loads without errors.
+- The storage drive is detected correctly.
+- Keyboard and mouse are working.
+- Display output is working correctly.
+- Basic audio functionality is available.
+- Network connectivity is available when required.
+
+---
+
+## 4. Device Manager Check
+
+Open Device Manager and check for:
+
+- Unknown devices
+- Missing drivers
+- Warning indicators
+- Hardware devices that are not detected correctly
+
+Driver installation and detailed driver verification are documented separately in:
+
+[02 - Drivers and Updates](./02-Drivers-and-Updates.md)
+
+---
+
+## 5. Initial Security Check
+
+Perform basic security verification before continuing with software installation.
+
+Check:
+
+- Windows Security status
+- Windows Update status
+- Firewall status
+- Antivirus status when applicable
+
+Security configuration should be appropriate for the Windows version, device capabilities, and customer's requirements.
+
+---
+
+## 6. Restart and Re-check
+
+Restart the system after important updates or configuration changes.
+
+After restarting, verify that:
+
+- Windows boots normally.
+- Previously configured settings remain applied.
+- No new hardware or system errors appear.
+- Network connectivity remains functional.
+
+---
+
+## Completion Criteria
+
+The initial configuration stage is complete when:
+
+- Windows starts normally.
+- Basic regional and user settings are configured.
+- Windows Update has been checked and applicable updates installed.
+- Basic hardware functionality has been verified.
+- Device Manager has been reviewed.
+- Basic Windows security status has been checked.
+- The system is ready for driver and application configuration.
+
+---
+
+## Next Step
+
+Continue with:
+
+[02 - Drivers and Updates](./02-Drivers-and-Updates.md)
