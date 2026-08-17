@@ -1,1 +1,215 @@
+# Post-Installation Testing
 
+## Overview
+
+Post-installation testing is performed after Windows installation, driver configuration, system configuration, application installation, and network setup have been completed.
+
+The objective is to verify that the system is stable, that the required hardware and software are functioning correctly, and that the device is ready for customer use.
+
+---
+
+## 1. Windows Boot Verification
+
+Restart the system and verify that:
+
+- Windows starts normally.
+- The system reaches the desktop without errors.
+- No unexpected boot delays occur.
+- No boot-related error messages are displayed.
+
+A restart is important because some configuration and driver changes only become fully effective after rebooting.
+
+---
+
+## 2. Hardware Verification
+
+Check the main hardware components and required peripherals.
+
+Typical checks include:
+
+- CPU operation
+- RAM detection
+- Storage detection
+- GPU / graphics output
+- Display
+- Keyboard
+- Mouse
+- USB ports
+- Audio
+- Microphone when required
+- Network adapter
+- Wi-Fi when available
+- Bluetooth when available
+- External devices required by the customer
+
+Hardware that does not function correctly should be investigated before customer handover.
+
+---
+
+## 3. Device Manager Verification
+
+Open Device Manager and verify that:
+
+- Required hardware is detected.
+- No unknown devices remain.
+- No unexpected warning indicators are present.
+- Required drivers are installed correctly.
+
+If a hardware or driver issue is identified, return to the appropriate configuration or troubleshooting stage.
+
+---
+
+## 4. Windows and Software Verification
+
+Verify:
+
+- Windows Update status
+- Windows activation status
+- Required applications
+- Application launch
+- Basic application functionality
+- Required software compatibility
+
+Important customer applications should be tested rather than assuming that installation alone confirms successful operation.
+
+---
+
+## 5. Network Verification
+
+Test the configured network connection.
+
+Depending on the environment, verify:
+
+- Ethernet connectivity
+- Wi-Fi connectivity
+- Local network communication
+- Internet access
+- Network printer access
+- Required online services
+
+For small LAN environments, verify communication between the connected devices.
+
+---
+
+## 6. Storage Verification
+
+Confirm that:
+
+- The system drive is detected.
+- Expected partitions are present.
+- Available storage capacity is reasonable.
+- Additional installed drives are detected.
+- The system can read and write to the required storage locations.
+
+Storage problems identified during testing should be investigated before the device is returned.
+
+---
+
+## 7. Temperature and Stability Check
+
+Monitor the system during normal operation.
+
+Check:
+
+- CPU temperature
+- GPU temperature when applicable
+- Fan operation
+- General system responsiveness
+- Unexpected shutdowns
+- Freezing or instability
+- Unusual noise
+
+Temperature checks are especially important after:
+
+- Hardware replacement
+- SSD/HDD upgrades
+- Cleaning
+- Thermal paste replacement
+- Hardware configuration changes
+
+---
+
+## 8. Basic Functional Testing
+
+Perform practical tests according to the customer's intended use.
+
+Examples:
+
+### General / Office Device
+
+- Open required applications.
+- Test keyboard and mouse.
+- Test display and audio.
+- Test network connectivity.
+- Test printer when applicable.
+
+### Gaming Device
+
+- Verify graphics output.
+- Check required gaming software.
+- Test network connectivity.
+- Monitor system temperature.
+- Perform a basic game launch or functional test when appropriate.
+
+### Multimedia Device
+
+- Test audio.
+- Test video playback.
+- Verify required media applications.
+- Check available storage.
+
+The test scope should match the customer's actual requirements.
+
+---
+
+## 9. Customer Data Verification
+
+Before completing the service, confirm that required customer data has been restored or is available as expected.
+
+When a backup was performed before formatting:
+
+- Verify that important files are present.
+- Confirm that the required folders and documents are accessible.
+- Where appropriate, verify the result with the customer.
+
+The device should not be considered complete until the required customer data is accounted for.
+
+---
+
+## 10. Final Customer Verification
+
+Before handover:
+
+- Confirm that requested work has been completed.
+- Review important changes with the customer.
+- Confirm that required applications and peripherals are working.
+- Explain any relevant limitations or remaining issues.
+- Confirm that the device is ready for normal use.
+
+If additional work is required, communicate it with the customer before proceeding when it may affect the original scope or cost.
+
+---
+
+## Completion Criteria
+
+The device is considered ready for handover when:
+
+- Windows boots normally.
+- Hardware is detected correctly.
+- Drivers are functioning.
+- Windows updates have been checked.
+- Windows activation has been verified.
+- Required applications work.
+- Network connectivity works.
+- Storage is functioning correctly.
+- System temperatures are within an acceptable range.
+- Customer data has been verified.
+- Customer requirements have been confirmed.
+
+---
+
+## Final Handover
+
+The system is returned to the customer only after the required installation, configuration, testing, and verification steps have been completed.
+
+The final objective is not simply to install Windows, but to provide a stable and usable system that meets the customer's requirements.
