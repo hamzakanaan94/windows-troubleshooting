@@ -1,1 +1,63 @@
+# Windows Activation
 
+## Overview
+
+Windows activation is verified after installation and system configuration.
+
+The objective is to confirm that the installed Windows edition is properly activated using an official licensing method.
+
+---
+
+## 1. Check Activation Status
+
+After Windows installation:
+
+1. Open Windows Settings.
+2. Navigate to the Windows activation settings.
+3. Check the current activation status.
+4. Confirm that the installed Windows edition matches the customer's license when applicable.
+
+---
+
+## 2. Official Activation Methods
+
+Activation should be completed using a valid license or digital license associated with the device or customer.
+
+Examples may include:
+
+- Digital license
+- Valid product key
+- OEM license associated with the device
+
+No unofficial activation methods are used or documented in this portfolio.
+
+---
+
+## 3. Activation Verification
+
+After activation, verify:
+
+- Windows reports that it is activated.
+- The correct Windows edition is installed.
+- No activation errors are displayed.
+
+If activation cannot be completed, the issue should be investigated before considering the installation complete.
+
+---
+
+## Completion Criteria
+
+The activation stage is complete when:
+
+- The correct Windows edition has been installed.
+- A valid activation method is available.
+- Windows activation status has been verified.
+- No activation-related errors remain.
+
+---
+
+## Next Step
+
+Continue with:
+
+[04 - System Configuration](./04-System-Configuration.md)
