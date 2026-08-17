@@ -1,1 +1,164 @@
+# Drivers and Updates
 
+## Overview
+
+After the initial Windows configuration, hardware drivers are installed and verified according to the device hardware and operating system.
+
+The objective is to ensure that the hardware is correctly recognized and that the system is stable before installing the customer's required applications.
+
+---
+
+## 1. Identify the Hardware
+
+Before installing drivers, identify the device and its hardware configuration.
+
+Check:
+
+- Device manufacturer and model
+- CPU
+- GPU
+- RAM
+- Storage
+- Network adapter
+- Audio hardware
+- Other relevant devices
+
+For laptops and branded systems, the manufacturer's support resources are preferred when compatible drivers are available.
+
+---
+
+## 2. Check Device Manager
+
+Open Device Manager and check for:
+
+- Unknown devices
+- Missing drivers
+- Warning indicators
+- Incorrectly recognized hardware
+- Devices requiring driver updates
+
+Device Manager is also used after driver installation to confirm that the hardware is correctly recognized.
+
+---
+
+## 3. Install Manufacturer Drivers
+
+Manufacturer-provided drivers are preferred when available for the specific device.
+
+Typical driver categories include:
+
+- Chipset
+- Graphics
+- Audio
+- LAN / Ethernet
+- Wi-Fi
+- Bluetooth
+- Storage-related devices
+- Touchpad
+- Card reader
+- Other device-specific components
+
+For branded laptops and desktops, the manufacturer's drivers are preferred over generic drivers when compatibility and availability allow.
+
+---
+
+## 4. Windows Update
+
+Windows Update is used to install applicable operating system updates and, when appropriate, available hardware drivers.
+
+The process includes:
+
+1. Check for Windows updates.
+2. Install applicable updates.
+3. Restart the system when required.
+4. Check for additional updates.
+5. Re-check Device Manager.
+
+Windows Update is not treated as a replacement for manufacturer-specific drivers when the manufacturer's driver is required for correct hardware functionality.
+
+---
+
+## 5. Driver Compatibility
+
+Driver compatibility should be considered before installation.
+
+Potential problems include:
+
+- Incorrect driver versions
+- Incompatible hardware drivers
+- Drivers intended for a different Windows version
+- Failed driver installation
+- Hardware becoming unstable after an update
+
+If an automatically installed or updated driver causes a problem, the driver should be investigated and replaced with a compatible version when appropriate.
+
+---
+
+## 6. Post-Driver Verification
+
+After installing drivers, verify:
+
+- No unresolved devices in Device Manager
+- No warning indicators
+- Display adapter is recognized correctly
+- Audio devices are recognized
+- Network adapters are functioning
+- Wi-Fi is functioning when available
+- Bluetooth is functioning when available
+- Storage devices are detected correctly
+- Other required hardware is functioning normally
+
+---
+
+## 7. Restart and Re-check
+
+Restart the system after major driver installations or updates.
+
+After restarting:
+
+- Check Device Manager again.
+- Test affected hardware.
+- Confirm Windows starts normally.
+- Check network connectivity.
+- Verify that no new errors have appeared.
+
+---
+
+## Troubleshooting Notes
+
+If a driver update causes instability, investigate the driver version and hardware compatibility before continuing.
+
+Examples of symptoms that may indicate a driver-related issue:
+
+- No audio
+- No network connection
+- Display problems
+- Device not detected
+- System instability
+- Blue Screen of Death (BSOD)
+
+Driver troubleshooting is documented further in:
+
+[04 - Troubleshooting](../04-Troubleshooting/)
+
+---
+
+## Completion Criteria
+
+Driver configuration is considered complete when:
+
+- Required drivers are installed.
+- Device Manager has been checked.
+- Hardware is correctly recognized.
+- No unresolved driver problems remain.
+- Required hardware functions have been tested.
+- Windows updates have been checked.
+- The system is stable after restarting.
+
+---
+
+## Next Step
+
+Continue with:
+
+[03 - Windows Activation](./03-Windows-Activation.md)
