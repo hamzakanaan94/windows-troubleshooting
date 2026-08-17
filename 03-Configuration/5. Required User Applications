@@ -1,1 +1,145 @@
+# User Applications
 
+## Overview
+
+After Windows, drivers, activation, and basic system configuration have been completed, the required user applications are installed according to the customer's needs and intended use of the device.
+
+The objective is to provide a practical software environment without installing unnecessary applications.
+
+---
+
+## 1. Identify Customer Requirements
+
+Before installing applications, confirm how the device will be used.
+
+Typical use cases include:
+
+- General / Office use
+- Education
+- Multimedia
+- Gaming
+- Personal use
+- Customer-specific software requirements
+
+The customer's existing requirements are considered before selecting applications.
+
+---
+
+## 2. Install Required Applications
+
+Install only the applications required by the customer or appropriate for the intended use of the device.
+
+Common categories include:
+
+- Office / productivity applications
+- Web browsers
+- PDF readers
+- Media playback software
+- File utilities
+- Required system utilities
+- Gaming platforms
+- Customer-specific applications
+
+Software selection should consider:
+
+- Hardware capabilities
+- Windows version
+- Customer requirements
+- Software compatibility
+- System performance
+- Available storage
+
+---
+
+## 3. Software Compatibility
+
+Before installation, verify that the required software is compatible with:
+
+- Installed Windows version
+- System architecture
+- Available hardware resources
+- Other required software
+
+Older or lower-specification systems may require lighter software choices to maintain acceptable performance.
+
+---
+
+## 4. Security Considerations
+
+Software should be obtained from trusted or official sources whenever possible.
+
+Before installing third-party software:
+
+- Confirm that it is required.
+- Verify compatibility.
+- Avoid unnecessary bundled software.
+- Avoid suspicious or unauthorized installers.
+- Consider the customer's security requirements.
+
+Antivirus software may be installed when requested or appropriate for the device.
+
+---
+
+## 5. Application Verification
+
+After installation, verify that required applications:
+
+- Launch correctly.
+- Open normally.
+- Have access to required system resources.
+- Can perform their intended basic functions.
+- Do not cause obvious system instability.
+
+Where applicable, test applications together with the related hardware.
+
+Examples:
+
+- Printer software with the connected printer
+- Audio software with the audio device
+- Gaming software with the available hardware
+- Office software with required documents
+
+---
+
+## 6. Software Updates
+
+After application installation:
+
+- Check for available application updates when required.
+- Apply appropriate updates.
+- Restart the system when necessary.
+- Re-test important applications after updates.
+
+---
+
+## 7. Customer Handover
+
+Before returning the device:
+
+- Confirm that requested applications are installed.
+- Verify that required applications open correctly.
+- Confirm that unnecessary software has not been installed.
+- Review the installed software with the customer when appropriate.
+
+The final software configuration should reflect the customer's actual requirements rather than a fixed list of applications.
+
+---
+
+## Completion Criteria
+
+Application configuration is complete when:
+
+- Required applications have been identified.
+- Compatible software has been installed.
+- Applications have been tested.
+- Required updates have been applied when appropriate.
+- No unnecessary software has been added.
+- Customer requirements have been verified.
+
+---
+
+## Next Step
+
+Continue with:
+
+[06 - Network Configuration](./06-Network-Configuration.md)
