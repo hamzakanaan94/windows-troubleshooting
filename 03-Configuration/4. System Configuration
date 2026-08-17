@@ -1,1 +1,180 @@
+# System Configuration
 
+## Overview
+
+After Windows, drivers, and activation have been verified, the system is configured according to the hardware, customer requirements, and intended use.
+
+The objective is to provide a stable and practical Windows environment before completing application installation and final testing.
+
+---
+
+## 1. Storage and Partition Verification
+
+Verify that the installed storage devices and partitions are correctly detected.
+
+Typical checks include:
+
+- System drive is detected correctly.
+- Additional storage drives are detected when available.
+- Expected partitions are present.
+- Available storage capacity is verified.
+- The system uses the intended partition structure.
+
+The partition layout is determined according to the customer's requirements and intended use of the device.
+
+Typical examples may include separate areas for:
+
+- Windows / system files
+- Games
+- Media or personal files
+
+---
+
+## 2. Display Configuration
+
+Verify and configure basic display functionality.
+
+Check:
+
+- Correct display resolution
+- Refresh rate when applicable
+- Graphics adapter recognition
+- External display output when required
+- Basic display stability
+
+Graphics configuration should match the capabilities of the installed hardware.
+
+---
+
+## 3. Audio Configuration
+
+Verify that the installed audio hardware and required drivers are functioning correctly.
+
+Check:
+
+- Speaker output
+- Headphone output when available
+- Microphone input when required
+- Correct audio device selection
+
+---
+
+## 4. Power and Performance Configuration
+
+Configure basic power and performance settings according to the device and its intended use.
+
+Consider:
+
+- Desktop vs. laptop
+- Battery-powered operation
+- General office use
+- Multimedia use
+- Gaming
+- Hardware performance limitations
+
+The configuration should provide a practical balance between system performance, stability, and power consumption.
+
+---
+
+## 5. Hardware and Peripheral Verification
+
+Check commonly used hardware and peripherals, including:
+
+- Keyboard
+- Mouse
+- USB ports
+- External storage
+- Printers
+- Network adapters
+- Bluetooth devices when available
+- Other customer-required peripherals
+
+Any device that is not functioning correctly should be investigated before the system is handed over.
+
+---
+
+## 6. Windows System Settings
+
+Configure basic Windows settings according to customer requirements.
+
+Depending on the device and intended use, this may include:
+
+- Default applications
+- File and folder settings
+- Display preferences
+- Audio preferences
+- Power settings
+- Startup behavior
+- Basic Windows security settings
+
+Only relevant settings are changed; unnecessary system modifications are avoided.
+
+---
+
+## 7. Performance and Temperature Check
+
+After configuration, perform a basic system stability check.
+
+Monitor:
+
+- CPU temperature
+- GPU temperature when applicable
+- General system responsiveness
+- Fan behavior
+- Unusual system noise
+- Unexpected shutdowns or instability
+
+Temperature checks are particularly important after hardware upgrades, cleaning, thermal paste replacement, or changes affecting system performance.
+
+---
+
+## 8. Customer-Specific Configuration
+
+The final configuration depends on how the customer intends to use the device.
+
+Examples include:
+
+### Office / General Use
+- Basic productivity configuration
+- Office applications
+- Browser
+- PDF support
+- Printer configuration
+
+### Gaming
+- Graphics configuration
+- Game-related software
+- Required game platforms
+- Network connectivity
+- Performance and temperature verification
+
+### Multimedia
+- Audio configuration
+- Video playback support
+- Required media software
+- Storage organization
+
+The goal is to configure only what the customer requires while keeping the system stable and practical.
+
+---
+
+## Completion Criteria
+
+System configuration is considered complete when:
+
+- Storage is correctly detected.
+- Required partitions are verified.
+- Display and audio are functioning.
+- Power settings are appropriate for the device.
+- Required peripherals are working.
+- Basic Windows settings have been configured.
+- System performance and temperatures have been checked.
+- Customer-specific requirements have been addressed.
+
+---
+
+## Next Step
+
+Continue with:
+
+[05 - User Applications](./05-User-Applications.md)
