@@ -1,1 +1,200 @@
+# Network Configuration
 
+## Overview
+
+Network configuration is performed according to the customer's environment and intended use of the device.
+
+The process may include wired LAN connections, Wi-Fi configuration, router setup, network printers, IP configuration, and Internet connectivity testing.
+
+The objective is to establish a stable network connection and verify that the required devices can communicate correctly.
+
+---
+
+## 1. Identify the Network Environment
+
+Before configuring the connection, identify the available network environment.
+
+Check:
+
+- Wired Ethernet/LAN connection
+- Wi-Fi availability
+- Router or access point
+- Network switch
+- Number of connected devices
+- Required network peripherals
+- Internet availability
+
+The configuration depends on whether the device is being connected to a home network, small local network, or gaming LAN.
+
+---
+
+## 2. Wired LAN Configuration
+
+For Ethernet connections:
+
+1. Connect the LAN cable.
+2. Verify that the network adapter is detected.
+3. Check the connection status.
+4. Confirm that the device receives the expected network configuration.
+5. Test communication with the local network.
+6. Test Internet connectivity when Internet access is available.
+
+Physical cabling and connection quality should also be checked when connectivity is unstable.
+
+---
+
+## 3. Wi-Fi Configuration
+
+For wireless connections:
+
+1. Verify that the Wi-Fi adapter is working.
+2. Identify the required wireless network.
+3. Connect using the appropriate credentials.
+4. Confirm that the device receives network connectivity.
+5. Test Internet access.
+
+If the connection is unstable, investigate the device, router, signal, and basic network configuration before concluding that the problem is software-related.
+
+---
+
+## 4. Router Configuration
+
+Router configuration may include:
+
+- Initial router setup
+- Internet connection configuration
+- Wi-Fi configuration
+- Wireless network settings
+- Basic LAN configuration
+- Checking connected devices
+- Testing network connectivity
+
+Router configuration is performed according to the available Internet service and the customer's requirements.
+
+---
+
+## 5. Switch and Local Network Setup
+
+For small local networks:
+
+1. Connect the required devices to the switch.
+2. Verify physical link connectivity.
+3. Identify the connected devices.
+4. Configure the required IP addressing when necessary.
+5. Check for address conflicts.
+6. Test communication between devices.
+
+This workflow was also used for small gaming LAN environments where multiple computers needed to communicate locally without relying on an Internet connection.
+
+---
+
+## 6. Gaming LAN Configuration
+
+For small offline gaming networks:
+
+- Connect the computers through a network switch.
+- Assign distinct IP addresses where required.
+- Verify that devices are on the same local network.
+- Check for IP conflicts.
+- Start the required game or local service.
+- Test connectivity between the participating computers.
+
+The network is tested before the gaming session begins to reduce interruptions caused by configuration problems.
+
+---
+
+## 7. Network Printer Configuration
+
+For network printers:
+
+1. Connect the printer to the network.
+2. Verify that the printer has network connectivity.
+3. Connect the required computer or mobile device to the same network.
+4. Install the appropriate printer software or driver.
+5. Add the printer.
+6. Perform a test print.
+
+The printer should be tested from the device that the customer intends to use.
+
+---
+
+## 8. IP Configuration
+
+IP configuration is checked when required for troubleshooting or local network setup.
+
+Typical checks include:
+
+- IP address
+- Subnet information
+- Default gateway
+- DNS configuration
+- Address conflicts
+
+Automatic network configuration is used when appropriate.
+
+Static addressing may be configured when required by the local network or device.
+
+---
+
+## 9. Internet Connectivity Testing
+
+After network configuration, verify Internet connectivity.
+
+Basic tests may include:
+
+- Opening a known website.
+- Checking DNS resolution.
+- Testing network response.
+- Running an Internet speed test when required.
+- Testing the customer's required online services.
+
+If Internet access fails, determine whether the problem is related to:
+
+- Device configuration
+- Network adapter
+- LAN cable
+- Wi-Fi connection
+- Router
+- Local network
+- Internet service
+
+---
+
+## 10. Network Troubleshooting
+
+Common issues may include:
+
+- No Internet connection
+- Wi-Fi connection failure
+- Ethernet connection failure
+- IP conflicts
+- Incorrect network configuration
+- Faulty cables
+- Router connectivity problems
+- Driver-related network problems
+- Network printer connection problems
+
+Troubleshooting should begin with the simplest and most likely cause before moving to more complex possibilities.
+
+---
+
+## Completion Criteria
+
+Network configuration is considered complete when:
+
+- The required device is connected to the network.
+- Wired or wireless connectivity is functioning.
+- IP configuration is appropriate.
+- Local network communication works when required.
+- Internet access works when available.
+- Required network printers are accessible.
+- Gaming LAN devices can communicate when applicable.
+- Basic connectivity tests have been completed.
+
+---
+
+## Next Step
+
+Continue with:
+
+[07 - Post-Installation Testing](./07-Post-Installation-Testing.md)
