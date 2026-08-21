@@ -226,7 +226,7 @@ Storage health problems
 
 The objective is to identify the actual cause rather than replacing the drive based only on high disk usage.
 
-13. Basic Data Recovery
+# 13. Basic Data Recovery
 
 Data recovery experience was limited to basic attempts to preserve or extract accessible data from damaged or failing devices.
 
