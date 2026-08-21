@@ -25,7 +25,7 @@ Insufficient storage space
 HDD or SSD health warnings
 Intermittent storage detection
 Abnormal disk activity
-# 1. Initial Assessment
+## 1. Initial Assessment
 
 Before making changes to a storage device:
 
@@ -40,7 +40,7 @@ Protect important user data before destructive operations.
 
 The objective is to identify the most likely cause while minimizing the risk of data loss.
 
-# 2. Storage Hardware Experience
+## 2. Storage Hardware Experience
 
 Hands-on storage work included:
 
@@ -57,7 +57,7 @@ Basic storage-related troubleshooting.
 
 Storage devices were selected according to the customer's requirements, system compatibility, intended use, and budget.
 
-# 3. HDD Experience
+## 3. HDD Experience
 
 Practical experience included working with HDDs from several manufacturers, including:
 
@@ -72,7 +72,7 @@ Seagate drives were also recommended in appropriate situations based on practica
 
 The choice of storage hardware was based on the intended workload, compatibility, available budget, and customer requirements rather than using one model for every situation.
 
-# 4. HDD Health Assessment
+## 4. HDD Health Assessment
 
 HDD health was assessed using Hard Disk Sentinel and other available system information.
 
@@ -89,7 +89,7 @@ Health information was considered together with the actual behavior of the drive
 
 A health warning was treated as an indication requiring further investigation rather than automatically assuming complete drive failure.
 
-# 5. HDD Hardware-Level Troubleshooting
+## 5. HDD Hardware-Level Troubleshooting
 
 Basic hardware-level HDD troubleshooting was also performed when appropriate.
 
@@ -99,7 +99,7 @@ This was a basic diagnostic and recovery attempt rather than advanced profession
 
 The purpose was to investigate the possible hardware cause and attempt to recover accessible data where possible.
 
-# 6. SSD Experience
+## 6. SSD Experience
 
 Practical SSD experience included:
 
@@ -120,7 +120,7 @@ Laptops
 
 SSD replacement was commonly followed by a clean Windows installation rather than disk cloning.
 
-# 7. BIOS/UEFI Storage Detection
+## 7. BIOS/UEFI Storage Detection
 
 When an SSD or other storage device was not detected, BIOS/UEFI configuration was considered as part of the diagnostic process.
 
@@ -130,7 +130,7 @@ Changing the system configuration from Legacy to UEFI resolved the storage/boot 
 
 This demonstrated the importance of checking firmware configuration before assuming that a storage device has failed.
 
-# 8. Legacy and UEFI Considerations
+## 8. Legacy and UEFI Considerations
 
 Storage configuration can depend on the firmware boot mode.
 
@@ -148,7 +148,7 @@ The selected configuration should be compatible with the Windows installation an
 
 For modern systems, UEFI with GPT is generally preferred when supported by the hardware and Windows installation.
 
-# 9. Windows Installation on Storage
+## 9. Windows Installation on Storage
 
 When installing Windows on a new or replacement storage device:
 
@@ -165,7 +165,7 @@ Verify storage detection and system operation.
 
 A clean Windows installation was preferred over cloning when replacing or upgrading storage.
 
-# 10. Windows Disk Management
+## 10. Windows Disk Management
 
 Disk Management can be used to inspect how Windows recognizes storage devices and partitions.
 
@@ -182,7 +182,7 @@ Whether the expected partitions are present.
 
 Disk Management should be used carefully because partition operations can affect user data.
 
-# 11. File System Problems
+## 11. File System Problems
 
 File system problems may cause:
 
@@ -199,7 +199,7 @@ When appropriate, Windows disk-checking tools can be used to identify and repair
 
 Important user data should be protected before performing repairs that may modify the file system.
 
-# 12. Disk Usage and Performance
+## 12. Disk Usage and Performance
 
 When Windows is running but the system is slow, investigate storage activity.
 
@@ -226,7 +226,7 @@ Storage health problems
 
 The objective is to identify the actual cause rather than replacing the drive based only on high disk usage.
 
-# 13. Basic Data Recovery
+## 13. Basic Data Recovery
 
 Data recovery experience was limited to basic attempts to preserve or extract accessible data from damaged or failing devices.
 
@@ -242,7 +242,7 @@ This experience should be considered basic data recovery, not advanced professio
 
 When a storage device shows signs of serious physical failure, professional data recovery may be more appropriate than repeated repair attempts.
 
-# 14. Example: Slow HDD or SSD
+## 14. Example: Slow HDD or SSD
 
 A slow system should not automatically be considered a storage hardware failure.
 
@@ -272,7 +272,7 @@ Verify System Stability
 
 The storage device should only be replaced when the evidence supports storage failure or when replacement is the appropriate solution for the identified limitation.
 
-# 15. Example: Storage Device Not Detected
+## 15. Example: Storage Device Not Detected
 
 When an HDD, SSD, or M.2 device is not detected:
 
@@ -300,7 +300,7 @@ Re-test Detection
 
 If the device is not detected by BIOS/UEFI, the investigation should focus on hardware, connections, firmware configuration, or the storage device itself.
 
-# 16. Example: Windows Boot Failure Related to Storage
+## 16. Example: Windows Boot Failure Related to Storage
 
 When Windows fails to boot:
 
@@ -330,7 +330,7 @@ Storage-related boot problems should be investigated together with the Windows b
 
 If the storage device shows signs of physical failure, data protection should take priority over repeated repair attempts.
 
-# 17. Example: SSD Not Detected Due to Firmware Configuration
+## 17. Example: SSD Not Detected Due to Firmware Configuration
 
 A practical example involved an SSD that was not correctly detected under a Legacy BIOS configuration.
 
@@ -356,7 +356,7 @@ The issue was resolved by correcting the firmware configuration rather than repl
 
 This demonstrates why BIOS/UEFI configuration should be checked before assuming that a storage device has failed.
 
-# 18. Example: Storage Health Warning
+## 18. Example: Storage Health Warning
 
 When a storage device reports a health warning:
 
@@ -382,7 +382,7 @@ Verify System Operation
 
 A storage health warning should be taken seriously, especially when combined with data access problems, instability, or other signs of degradation.
 
-# 19. Data Protection Before Storage Repair
+## 19. Data Protection Before Storage Repair
 
 Before performing potentially destructive storage operations:
 
@@ -395,7 +395,7 @@ Confirm the correct storage device before performing destructive operations.
 
 Data protection should take priority whenever there is a reasonable risk of storage failure or data loss.
 
-# 20. Verification
+## 20. Verification
 
 After completing storage troubleshooting or repair:
 
@@ -411,7 +411,7 @@ Monitor the system for recurring storage-related symptoms.
 
 Verification should confirm both the original problem and the stability of the storage configuration.
 
-# 21. Completion Criteria
+## 21. Completion Criteria
 
 The troubleshooting process is considered successful when:
 
